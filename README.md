@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Aroush!
 
-<!--
-**aroushf/aroushf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science student** passionate about AI & Machine Learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+I'm a student developer exploring the intersection of software engineering and artificial intelligence. I enjoy building projects that solve real problems and sharpen my understanding of ML systems.
+
+---
+
+## Tech stack
+
+**Languages:** Java · C++ · Kotlin · Python
+**Tools:**  AndroidStudio · Git · Figma · VS Code
+
+---
+
+## Currently
+
+- Learning machine learning fundamentals and neural networks
+- Building personal projects to apply what I learn
+- Open to collaborating on interesting projects
+
+---
+
+📫 **Contact:** fatimaroush8164@gmail.com
+💼 **LinkedIn:** [[linkedin.com/in/yourhandle](https://linkedin.com/in/yourhandle)](https://www.linkedin.com/in/aroush-fatima-6a0303246/)
