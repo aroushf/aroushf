@@ -25,5 +25,5 @@ I'm a student developer exploring the intersection of software engineering and a
 
 ---
 
-📫 **Contact:** fatimaroush8164@gmail.com
-💼 **LinkedIn:** [(https://www.linkedin.com/in/aroush-fatima-6a0303246/)]
+ **Contact:** fatimaroush8164@gmail.com
+ **LinkedIn:** [(https://www.linkedin.com/in/aroush-fatima-6a0303246/)]
